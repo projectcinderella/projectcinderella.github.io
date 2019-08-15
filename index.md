@@ -115,7 +115,7 @@ end
 </dl>
 
 
-<video src="https://raw.githubusercontent.com/ntuc255/chey/master/assets/chey/Dance.mp4" poster="https://raw.githubusercontent.com/ntuc255/chey/master/assets/chey/Opening.jpg" width="320" height="200" controls preload></video>
+<video src="https://raw.githubusercontent.com/projectcinderella/projectcinderella/master/assets/chey/Dance.mp4" poster="https://raw.githubusercontent.com/projectcinderella/projectcinderella/master/assets/chey/Opening.jpg" width="320" height="200" controls preload></video>
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
