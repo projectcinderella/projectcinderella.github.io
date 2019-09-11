@@ -3,8 +3,15 @@ layout: default
 ---
 
 ## Our Wishes!
-
 May the next 50 be even better than the first!
+
+50 cheers to 50 years. Let the party begin!
+
+Happy 25th anniversary of your 25th birthday!
+
+Buy the sports car, get the tattoo, take a trip, learn something new. Let the midlife crisis ADVENTURE begin!
+
+Don’t think of it as 50. Think of it as 21 with 29 years of experience.
 
 ----
 <div class="comments">
