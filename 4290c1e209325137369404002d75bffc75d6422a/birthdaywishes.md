@@ -4,7 +4,7 @@ layout: default
 
 ## Our Wishes!
 
-_yay_
+May the next 50 be even better than the first!
 
 ----
 <div class="comments">
