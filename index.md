@@ -39,7 +39,7 @@ Once upon a time in a faraway place, lived a kind and gentle young woman called 
 
 * * *
 
-And so to Cinderella, here's our wishes for you:
+And so to Cinderella, here are our wishes for you:
 
 ## Departmental Wishes
 
