@@ -4,19 +4,55 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Let me tell you about Cinderella
 
-# Header 1
+<dl>
+<dt>Name</dt>
+<dd>Cinderella Chia</dd>
+<dt>Born</dt>
+<dd>1969</dd>
+<dt>Birthplace</dt>
+<dd>Singapore</dd>
+<dt>Favourite Color</dt>
+<dd>Hot Pink</dd>
+</dl>
 
-This is a normal paragraph following a header. 
-
-## Header 2
-
-> This is a blockquote following a header.
+#### Free Spirited
+> Nothing stops this Cinderella from doing what she wants...
+> When something is important enough, she would do it even if the odds are not in her 
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> -Mr.Little Guy
+
+<video poster="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Opening.jpg" width="618" height="347" controls preload> 
+    <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.mp4" media="only screen and (min-device-width: 568px)"></source> 
+    <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.iphone5.mp4" media="only screen and (max-device-width: 568px)"></source> 
+    <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.webmhd.webm"></source> 
+</video>
+
+#### Character 2
+> 
+>
+> -Mr.Little Guy
+
+* * *
+
+And so to Cinderella, here's our wishes to you
+
+## Departmental Wishes
+
+#### COE-BPR
+Departmental Wishes Here
+
+#### SSC
+Departmental Wishes Here
+
+#### NE Finance
+Departmental Wishes Here
+
+
+
+
 
 ### Header 3
 
@@ -113,23 +149,10 @@ end
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+* * *
 
-# Chey's Serious Side
-
-<video poster="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Opening.jpg" width="618" height="347" controls preload> 
-    <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.mp4" media="only screen and (min-device-width: 568px)"></source> 
-    <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.iphone5.mp4" media="only screen and (max-device-width: 568px)"></source> 
-    <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.webmhd.webm"></source> 
-</video>
-
-
-# Birthday Wishes
+## Individual Birthday Wishes
 
 <div class="comments">
 	<div id="disqus_thread"></div>
