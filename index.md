@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 Once upon a time in a faraway place, lived a kind and gentle young woman called Cinderella. Cinderella worked by cleaning homes for other people,  often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. Life should be more than a burden to bare but rarely changes overnight without careful thought and planning to bring it about. 
 
-## Let me tell you about Cinderella
+## More about Cinderella
 
 <dl>
 <dt>Name</dt>
