@@ -7,7 +7,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 Once upon a time in a faraway place, lived a kind and gentle young woman called Cinderella. Cinderella worked by caning the undisciplined ~~CFO’s~~ rats and ensuring the ~~Lazybums~~ gnomes stick to their deadlines, often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. And then the fairy godmother came, granting her a wish on her 50th birthday if she could have 1,000 well wishes...
 
 
-## Fairy godmother share some info about Cinderella:
+## Fairy godmother asked Snow White’s 7 dwarf about Cinderella:
 
 <dl>
 <dt>Name</dt>
@@ -24,7 +24,7 @@ Once upon a time in a faraway place, lived a kind and gentle young woman called 
 > Nothing stops this Cinderella from doing what she wants...
 > When something is important enough, she would do it even if the odds are not in her 
 >
-> -Mr.Little Guy
+> -Mr.Little Guy (Dwarf 1)
 
 <video poster="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Opening.jpg" width="618" height="347" controls preload> 
     <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.mp4" media="only screen and (min-device-width: 568px)"></source> 
@@ -35,7 +35,7 @@ Once upon a time in a faraway place, lived a kind and gentle young woman called 
 #### Character/Trait 2
 >  ... ... ...
 >
-> -Mr.Little Guy
+> -Dreamking
 
 * * *
 
