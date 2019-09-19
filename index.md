@@ -4,9 +4,11 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-Once upon a time in a faraway place, lived a kind and gentle young woman called Cinderella. Cinderella worked by cleaning homes for other people,  often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. Life should be more than a burden to bare but rarely changes overnight without careful thought and planning to bring it about. 
+Once upon a time in a faraway place, lived a kind and gentle young woman called Cinderella. Cinderella worked by caning the undisciplined ~~CFO’s~~ rats and ensuring the gnomes ~~Lazybums~~ stick to their deadlines, often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. And then the fairy godmother came and grant her a wish for her 50th birthday...
 
-## More about Cinderella
+
+
+## Fairy godmother said:
 
 <dl>
 <dt>Name</dt>
@@ -19,7 +21,7 @@ Once upon a time in a faraway place, lived a kind and gentle young woman called 
 <dd>Hot Pink</dd>
 </dl>
 
-#### Free Spirited
+#### You’re Free Spirited
 > Nothing stops this Cinderella from doing what she wants...
 > When something is important enough, she would do it even if the odds are not in her 
 >
@@ -70,5 +72,4 @@ Departmental Wishes Here
 	</script>
 	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </div>
-
 
