@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-Once upon a time in a faraway place, lived a kind and gentle young woman called Cinderella. Cinderella worked by caning the undisciplined ~~CFO’s~~ rats, ensuring the ~~lazybums~~ gnomes stick to their deadlines and rejecting the ~~departments~~ Leprechauns from borrowing extra money, often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. And then the fairy godmother appeared, promising to granting her a wish if she could have 1,000 birthday wishes before the clock strikes 12 on her 50th birthday...
+Once upon a time in a faraway place, lived a kind and gentle young woman called Cinderella. Cinderella worked by caning the undisciplined ~~CFO’s~~ rats, ensuring the ~~lazybums~~ gnomes stick to their deadlines and rejecting the ~~departments~~ Leprechauns application for extra money, often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. And then the fairy godmother appeared, promising to granting her a wish if she could have 1,000 birthday wishes before the clock strikes 12 on her 50th birthday...
 
 
 ## Snow White’s 7 dwarf comments on Cinderella:
