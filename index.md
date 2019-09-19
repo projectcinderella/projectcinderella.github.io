@@ -4,8 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-Once upon a time in a faraway place, lived a kind and gentle young woman called Cinderella. Cinderella worked by caning the undisciplined ~~CFO’s~~ rats and ensuring the ~~Lazybums~~ gnomes stick to their deadlines, often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. And then the fairy godmother came and grant her a wish on her 50th birthday...
-
+Once upon a time in a faraway place, lived a kind and gentle young woman called Cinderella. Cinderella worked by caning the undisciplined ~~CFO’s~~ rats and ensuring the ~~Lazybums~~ gnomes stick to their deadlines, often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. And then the fairy godmother came and grant her a wish on her 50th birthday if she has 1,000 well wishes...
 
 
 ## Fairy godmother said:
@@ -14,11 +13,11 @@ Once upon a time in a faraway place, lived a kind and gentle young woman called 
 <dt>Name</dt>
 <dd>Cinderella Chia Chey Hui</dd>
 <dt>Born</dt>
-<dd>1969</dd>
+<dd>13 Nov 1969</dd>
 <dt>Birthplace</dt>
 <dd>Singapore</dd>
-<dt>Favourite Color</dt>
-<dd>Hot Pink</dd>
+<dt>Favourite Guy</dt>
+<dd>Aragon</dd>
 </dl>
 
 #### You’re Free Spirited
@@ -40,7 +39,7 @@ Once upon a time in a faraway place, lived a kind and gentle young woman called 
 
 * * *
 
-And so to Cinderella, here's our wishes to you
+And so to Cinderella, here's our wishes for you:
 
 ## Departmental Wishes
 
