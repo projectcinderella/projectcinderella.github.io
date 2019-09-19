@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-Once upon a time in a faraway place, lived a kind and gentle young woman called Cinderella. Cinderella worked by caning the undisciplined ~~CFO’s~~ rats and ensuring the ~~Lazybums~~ gnomes stick to their deadlines, often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. And then the fairy godmother came, granting her a wish on her 50th birthday if she could have 1,000 well wishes...
+Once upon a time in a faraway place, lived a kind and gentle young woman called Cinderella. Cinderella worked by caning the undisciplined ~~CFO’s~~ rats and ensuring the ~~Lazybums~~ gnomes stick to their deadlines, often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. And then the fairy godmother came, granting her a wish if she could have 1,000 well wishes or words of gratitude before the clock strikes 12 on her 50th birthday...
 
 
 ## Fairy godmother asked Snow White’s 7 dwarf about Cinderella:
@@ -22,7 +22,7 @@ Once upon a time in a faraway place, lived a kind and gentle young woman called 
 
 #### She’s Free Spirited
 > Nothing stops this Cinderella from doing what she wants...
-> When something is important enough, she would do it even if the odds are not in her 
+> When something is important enough ... ... ... 
 >
 > -Mr.Little Guy (Dwarf 1)
 
@@ -41,20 +41,20 @@ Once upon a time in a faraway place, lived a kind and gentle young woman called 
 
 And so to Cinderella, here's our wishes for you:
 
-## Departmental Wishes
+## Departmental Wishes/Words of Gratitude
 
 #### COE-BPR
-Departmental Wishes Here
+Departmental Wishes/gratitude Here
 
 #### SSC
-Departmental Wishes Here
+Departmental Wishes/gratitude Here
 
 #### NE Finance
-Departmental Wishes Here
+Departmental Wishes/gratitude Here
 
 * * *
 
-## Individual Birthday Wishes
+## Individual Birthday Wishes/gratitude
 
 <div class="comments">
 	<div id="disqus_thread"></div>
