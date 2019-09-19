@@ -4,10 +4,10 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-Once upon a time in a faraway place, lived a kind and gentle young woman called Cinderella. Cinderella worked by caning the undisciplined ~~CFO’s~~ rats and ensuring the ~~Lazybums~~ gnomes stick to their deadlines, often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. And then the fairy godmother came, granting her a wish if she could have 1,000 well wishes or words of gratitude before the clock strikes 12 on her 50th birthday...
+Once upon a time in a faraway place, lived a kind and gentle young woman called Cinderella. Cinderella worked by caning the undisciplined ~~CFO’s~~ rats and ensuring the ~~Lazybums~~ gnomes stick to their deadlines, often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. And then the fairy godmother appeared, promising to granting her a wish if she could have 1,000 birthday wishes before the clock strikes 12 on her 50th birthday...
 
 
-## Fairy godmother asked Snow White’s 7 dwarf about Cinderella:
+## Snow White’s 7 dwarf comments Cinderella:
 
 <dl>
 <dt>Name</dt>
@@ -41,20 +41,20 @@ Once upon a time in a faraway place, lived a kind and gentle young woman called 
 
 And so to Cinderella, here's our wishes for you:
 
-## Departmental Wishes/Words of Gratitude
+## Departmental Wishes
 
 #### COE-BPR
-Departmental Wishes/gratitude Here
+Departmental Birthday Wishes Here
 
 #### SSC
-Departmental Wishes/gratitude Here
+Departmental Birthday Wishes Here
 
 #### NE Finance
-Departmental Wishes/gratitude Here
+Departmental Birthday Wishes Here
 
 * * *
 
-## Individual Birthday Wishes/gratitude
+## Individual Birthday Wishes
 
 <div class="comments">
 	<div id="disqus_thread"></div>
