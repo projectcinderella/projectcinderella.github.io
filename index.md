@@ -12,7 +12,7 @@ Once upon a time in a faraway place, lived a kind and gentle young woman called 
 
 <dl>
 <dt>Name</dt>
-<dd>Cinderella Chia</dd>
+<dd>Cinderella Chia Chey Hui</dd>
 <dt>Born</dt>
 <dd>1969</dd>
 <dt>Birthplace</dt>
