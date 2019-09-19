@@ -7,7 +7,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 Once upon a time in a faraway place, lived a kind and gentle young woman called Cinderella. Cinderella worked by caning the undisciplined ~~CFO’s~~ rats and ensuring the ~~Lazybums~~ gnomes stick to their deadlines, often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. And then the fairy godmother came, granting her a wish on her 50th birthday if she could have 1,000 well wishes...
 
 
-## Fairy godmother said:
+## Fairy godmother share some info about Cinderella:
 
 <dl>
 <dt>Name</dt>
@@ -16,11 +16,11 @@ Once upon a time in a faraway place, lived a kind and gentle young woman called 
 <dd>13 Nov 1969</dd>
 <dt>Birthplace</dt>
 <dd>Singapore</dd>
-<dt>Favourite Guy</dt>
+<dt>Favourite Character</dt>
 <dd>Aragon</dd>
 </dl>
 
-#### You’re Free Spirited
+#### She’s Free Spirited
 > Nothing stops this Cinderella from doing what she wants...
 > When something is important enough, she would do it even if the odds are not in her 
 >
