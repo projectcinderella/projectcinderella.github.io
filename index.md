@@ -43,10 +43,10 @@ And so to Cinderella, here are our wishes for you:
 #### COE-BPR
 Departmental Birthday Wishes Here
 
-#### SSC
+#### NE Finance
 Departmental Birthday Wishes Here
 
-#### NE Finance
+#### SSC Team
 Departmental Birthday Wishes Here
 
 * * *
