@@ -2,25 +2,10 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-Once upon a time in a faraway place, lived a kind and gentle young woman called Cinderella. Cinderella worked by chasing after the undisciplined ~~CFO’s~~ rats, ensuring the lazy ~~colleagues~~ gnomes stick to their deadlines and rejecting the greedy ~~departments~~ leprechauns application for extra money, often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. And then the fairy godmother appeared, promising to granting her a wish if she could have 1,000 birthday wishes before the clock strikes 12 on her 50th birthday...
+Once upon a time in a faraway place, lived a kind and gentle young woman called Cinderella. Cinderella worked by chasing after the undisciplined ~~CFO’s~~ rats, ensuring the lazy ~~colleagues~~ gnomes stick to their deadlines and rejecting the greedy ~~departments~~ leprechauns application for extra money, often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. And then the fairy godmother appeared, promising to granting her a wish if she could have 1,000 birthday wishes before the clock strikes 12 on her birthday this year...
 
 
 ## Fairy Godmother interviewed Cinderella's 7 friends:
-
-Tell me about Cinderella
-
-<dl>
-<dt>Name</dt>
-<dd>Cinderella Chia Chey Hui</dd>
-<dt>Born</dt>
-<dd>13 Nov 1969</dd>
-<dt>Birthplace</dt>
-<dd>Singapore</dd>
-<dt>Favourite Character</dt>
-<dd>Aragon</dd>
-</dl>
 
 #### Free Spirited Lady <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Elsa.jpg" alt="Example" width="80" height="80">      
 
