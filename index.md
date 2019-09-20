@@ -22,7 +22,7 @@ Tell me about Cinderella
 <dd>Aragon</dd>
 </dl>
 
-#### Free Spirited Lady      <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Elsa.jpg" alt="Example" width="80" height="80">
+#### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Elsa.jpg" alt="Example" width="80" height="80"> Free Spirited Lady      
 
 > Nothing stops this Cinderella from doing what she wants. 
 > _She_ don’t care what they’re going to say. Let the storm rage on. The cold never bothered _her_ anyway.
