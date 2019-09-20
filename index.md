@@ -7,7 +7,7 @@ Once upon a time in a faraway place, lived a kind and gentle young woman called 
 
 ## Fairy Godmother interviewed Cinderella's 7 friends:
 
-#### Free Spirited Lady <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Elsa.jpg" alt="Example" width="80" height="80">      
+#### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Elsa.jpg" alt="Example" width="80" height="80">     She's a free spirited lady   
 
 > Nothing stops this Cinderella from doing what she wants. 
 > _She_ don’t care what they’re going to say. Let the storm rage on. The cold never bothered _her_ anyway.
