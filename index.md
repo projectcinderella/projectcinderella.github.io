@@ -24,7 +24,7 @@ Once upon a time in a faraway place, lived a kind and gentle young woman called 
 
 #### Free Spirited Lady
 > Nothing stops this Cinderella from doing what she wants. 
-> I don’t care what they’re going to say. Let the storm rage on. The cold never bothered me anyway.
+> _She_ don’t care what they’re going to say. Let the storm rage on. The cold never bothered _her_ anyway.
 > -Elsa, Frozen
 
 <video poster="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Opening.jpg" width="618" height="347" controls preload> 
