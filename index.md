@@ -4,10 +4,12 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-Once upon a time in a faraway place, lived a kind and gentle young woman called Cinderella. Cinderella worked by caning the undisciplined ~~CFO’s~~ rats, ensuring the ~~lazybums~~ gnomes stick to their deadlines and rejecting the ~~departments~~ Leprechauns application for extra money, often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. And then the fairy godmother appeared, promising to granting her a wish if she could have 1,000 birthday wishes before the clock strikes 12 on her 50th birthday...
+Once upon a time in a faraway place, lived a kind and gentle young woman called Cinderella. Cinderella worked by chasing after the undisciplined ~~CFO’s~~ rats, ensuring the lazy ~~colleagues~~ gnomes stick to their deadlines and rejecting the greedy ~~departments~~ leprechauns application for extra money, often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. And then the fairy godmother appeared, promising to granting her a wish if she could have 1,000 birthday wishes before the clock strikes 12 on her 50th birthday...
 
 
-## Snow White’s 7 dwarf comments on Cinderella:
+## Fairy Godmother interviewed Cinderella's 7 friends:
+
+**Tell me about Cinderella**
 
 <dl>
 <dt>Name</dt>
@@ -20,11 +22,10 @@ Once upon a time in a faraway place, lived a kind and gentle young woman called 
 <dd>Aragon</dd>
 </dl>
 
-#### She’s Free Spirited
-> Nothing stops this Cinderella from doing what she wants...
-> When something is important enough ... ... ... 
->
-> -Mr.Little Guy (Dwarf 1)
+#### Free Spirited Lady
+> Nothing stops this Cinderella from doing what she wants. 
+> I don’t care what they’re going to say. Let the storm rage on. The cold never bothered me anyway.
+> -Elsa, Frozen
 
 <video poster="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Opening.jpg" width="618" height="347" controls preload> 
     <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.mp4" media="only screen and (min-device-width: 568px)"></source> 
@@ -35,7 +36,12 @@ Once upon a time in a faraway place, lived a kind and gentle young woman called 
 #### Character/Trait 2
 >  ... ... ...
 >
-> -Dreamking
+> -Princess Jasmine
+
+#### Character/Trait 3
+> Her wish(es) has always been my command
+>
+> -Genie, Aladdin (Chee Meng)
 
 * * *
 
