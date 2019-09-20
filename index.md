@@ -9,7 +9,7 @@ Once upon a time in a faraway place, lived a kind and gentle young woman called 
 
 ## Fairy Godmother interviewed Cinderella's 7 friends:
 
-**Tell me about Cinderella**
+Tell me about Cinderella
 
 <dl>
 <dt>Name</dt>
