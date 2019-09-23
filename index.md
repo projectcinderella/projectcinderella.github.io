@@ -30,6 +30,7 @@ Never once we would feel like we are in the Cold Room. Its always HOT with you a
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Wonder woman.jpg" alt="Example" width="80" height="80"> Wonder-full Women
 She can work wonders and make the impossible possible. No problem is a problem rather She is the SOLUTION. **We are the Champions** when we have you!
+<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/solution.jpg" alt="Example" width="200" height="200"></p>
 > Under her leadership, the entire Finance org has achieved so much from where we are 4-5 years ago
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/No airs.jpg" alt="Example" width="80" height="80"> No Airs
