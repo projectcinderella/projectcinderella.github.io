@@ -40,13 +40,13 @@ She is unpretentious, not Hao Lian and Blink Blink or Blend Blend. **You are the
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Elsa.jpg" alt="Example" width="80" height="80">     Free spirited lady   
 
-Nothing stops this her from doing what she wants. 
+She is a free spirit, nothing can stop her from doing what she wants.
 <p><video poster="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Opening.jpg" width="618" height="347" controls preload> 
     <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.mp4" media="only screen and (min-device-width: 568px)"></source> 
     <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.iphone5.mp4" media="only screen and (max-device-width: 568px)"></source> 
     <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.webmhd.webm"></source> 
 </video></p>
-> I don’t care what they’re going to say. Let the storm rage on. The cold never bothered me anyway. **Let it go** 
+> I don’t care what they’re going to say. Let the storm rage on. The cold never bothered me anyway. **Let it go**
 
 * * *
 
