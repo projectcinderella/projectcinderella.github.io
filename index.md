@@ -13,9 +13,9 @@ Has a great HEART that shows genuine care and concern to people. We **Love You t
 >She is generous, no calculative, display empathy.
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Zen 1.jpg" alt="Example" width="80" height="80"> Cool & Zen
-She makes people around her feel calm and she is composed despite all the牛鬼蛇神
+She makes people around her feel calm and she is composed despite all the 牛鬼蛇神
 **Its My Life** and we take control in whatever space that we operate. **Ice Ice Baby!**
-<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Zen 2.jpg" alt="Example" width="200" height="200"></p>
+<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Zen 2.jpg" alt="Example" width="350" height="200"></p>
 >Her frequently used encouragement to herself and us, ZEN!!!!
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Decisive.jpg" alt="Example" width="80" height="80"> Decisive
@@ -26,7 +26,7 @@ She makes people around her feel calm and she is composed despite all the牛鬼�
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Full of energy.jpg" alt="Example" width="80" height="80"> Full of Energy
 Never once we would feel like we are in the Cold Room. Its always HOT with you around. We are **On Fire** and **This House is On Fire!**
 <p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Full of energy 1.jpg" alt="Example" width="200" height="200"></p>
->Never a moment of冷. Always fun to be with and a great company for any occasion. Full of passion for any piece of work.
+>Never a moment of 冷. Always fun to be with and a great company for any occasion. Full of passion for any piece of work.
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Wonder woman.jpg" alt="Example" width="80" height="80"> Wonder-full Women
 She can work wonders and make the impossible possible. No problem is a problem rather She is the SOLUTION. **We are the Champions** when we have you!
