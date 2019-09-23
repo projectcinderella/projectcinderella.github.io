@@ -38,7 +38,7 @@ She is unpretentious, not Hao Lian and Blink Blink or Blend Blend. **You are the
 <p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/No airs 1.jpg" alt="Example" width="200" height="200"></p>
 > Approachable and she always lend a listening ear to us.
 
-#### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Elsa.jpg" alt="Example" width="80" height="80">     Free spirited lady   
+#### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Elsa.jpg" alt="Example" width="80" height="80">     Free Spirited Lady   
 
 She is a free spirit, nothing can stop her from doing what she wants.
 <p><video poster="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Opening.jpg" width="618" height="347" controls preload> 
