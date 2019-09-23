@@ -23,7 +23,7 @@ Nothing stops this her from doing what she wants.
 Has a great HEART that shows genuine care and concern to people. We *Love You to the Sky* and *My Heart Will Go On* so long as you are around!
 >She is generous, no calculative, display empathy.
 
-<img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Compassion 1.jpg" alt="Example" width="200" height="200">
+<img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Compassion 1.png" alt="Example" width="200" height="200">
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Zen 1.jpg" alt="Example" width="80" height="80"> Cool & Zen
 She makes people around her feel calm and she is composed despite all the牛鬼蛇神
