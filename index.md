@@ -9,8 +9,8 @@ Once upon a time in a faraway place, lived a kind and gentle young woman called 
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Elsa.jpg" alt="Example" width="80" height="80">     Free spirited lady   
 
-Nothing stops this Cinderella from doing what she wants. 
-> _She_ don’t care what they’re going to say. Let the storm rage on. The cold never bothered _her_ anyway.
+Nothing stops this her from doing what she wants. 
+> I don’t care what they’re going to say. Let the storm rage on. The cold never bothered me anyway.
 **-Elsa, Frozen** 
 
 <video poster="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Opening.jpg" width="618" height="347" controls preload> 
@@ -23,26 +23,34 @@ Nothing stops this Cinderella from doing what she wants.
 Has a great HEART that shows genuine care and concern to people. We *Love You to the Sky* and *My Heart Will Go On* so long as you are around!
 >She is generous, no calculative, display empathy.
 
+<img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Compassion 1.jpg" alt="Example" width="200" height="200">
+
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Zen 1.jpg" alt="Example" width="80" height="80"> Cool & Zen
 She makes people around her feel calm and she is composed despite all the牛鬼蛇神
-Its My Life and we take control in whatever space that we operate. Ice Ice Baby!
+*Its My Life* and we take control in whatever space that we operate. *Ice Ice Baby!*
 >Her frequently used encouragement to herself and us, ZEN!!!!
 
-#### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Compassion.jpg" alt="Example" width="80" height="80"> Decisive
-One Direction and in the way forward we will not be Lost!!
+#### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Decisive.jpg" alt="Example" width="80" height="80"> Decisive
+*One Direction* and in the way forward we will not be *Lost*!!
 >Her style is to make a call and move on with that decision. No U turn and the idea is to chop chop curry pok so that we can all go down to have Drinks!
 
+<img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Decision 1.jpg" alt="Example" width="200" height="200">
+
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Full of energy.jpg" alt="Example" width="80" height="80"> Full of Energy
-Never once we would feel like we are in the Cold Room. Its always HOT with you around. We are On Fire and This House is On Fire!
+Never once we would feel like we are in the Cold Room. Its always HOT with you around. We are *On Fire* and *This House is On Fire!*
 >Never a moment of冷. Always fun to be with and a great company for any occasion. Full of passion for any piece of work.
 
+<img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Full of energy 1.jpg" alt="Example" width="200" height="200">
+
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Wonder woman.jpg" alt="Example" width="80" height="80"> Wonder-full Women
-She can work wonders and make the impossible possible. No problem is a problem rather She is the SOLUTION. We are the Champions when we have you!
+She can work wonders and make the impossible possible. No problem is a problem rather She is the SOLUTION. *We are the Champions* when we have you!
 > Under her leadership, the entire Finance org has achieved so much from where we are 4-5 years ago
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/No airs.jpg" alt="Example" width="80" height="80"> No Airs
 She is unpretentious, not Hao Lian and Blink Blink or Blend Blend. *You are the Air I Breathe!!*
 > Approachable and she always lend a listening ear to us.
+
+<img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/No airs 1.jpg" alt="Example" width="200" height="200">
 
 * * *
 
