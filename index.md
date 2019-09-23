@@ -15,6 +15,7 @@ Has a great HEART that shows genuine care and concern to people. We **Love You t
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Zen 1.jpg" alt="Example" width="80" height="80"> Cool & Zen
 She makes people around her feel calm and she is composed despite all the牛鬼蛇神
 **Its My Life** and we take control in whatever space that we operate. **Ice Ice Baby!**
+<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Zen 2.jpg" alt="Example" width="200" height="200"></p>
 >Her frequently used encouragement to herself and us, ZEN!!!!
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Decisive.jpg" alt="Example" width="80" height="80"> Decisive
@@ -44,8 +45,7 @@ Nothing stops this her from doing what she wants.
     <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.iphone5.mp4" media="only screen and (max-device-width: 568px)"></source> 
     <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.webmhd.webm"></source> 
 </video></p>
-> I don’t care what they’re going to say. Let the storm rage on. The cold never bothered me anyway.
-**-Elsa, Frozen** 
+> I don’t care what they’re going to say. Let the storm rage on. The cold never bothered me anyway. **Let it go** 
 
 * * *
 
