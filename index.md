@@ -7,17 +7,6 @@ Once upon a time in a faraway place, lived a kind and gentle young woman called 
 
 ## 7 Traits of Cinderella:
 
-#### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Elsa.jpg" alt="Example" width="80" height="80">     Free spirited lady   
-
-Nothing stops this her from doing what she wants. 
-<video poster="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Opening.jpg" width="618" height="347" controls preload> 
-    <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.mp4" media="only screen and (min-device-width: 568px)"></source> 
-    <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.iphone5.mp4" media="only screen and (max-device-width: 568px)"></source> 
-    <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.webmhd.webm"></source> 
-</video>
-> I don’t care what they’re going to say. Let the storm rage on. The cold never bothered me anyway.
-**-Elsa, Frozen** 
-
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Compassion.jpg" alt="Example" width="80" height="80"> Full of Compassion
 Has a great HEART that shows genuine care and concern to people. We *Love You to the Sky* and *My Heart Will Go On* so long as you are around!
 <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Compassion 1.png" alt="Example" width="200" height="200">
@@ -47,6 +36,17 @@ She is unpretentious, not Hao Lian and Blink Blink or Blend Blend. *You are the 
 
 <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/No airs 1.jpg" alt="Example" width="200" height="200">
 > Approachable and she always lend a listening ear to us.
+
+#### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Elsa.jpg" alt="Example" width="80" height="80">     Free spirited lady   
+
+Nothing stops this her from doing what she wants. 
+<video poster="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Opening.jpg" width="618" height="347" controls preload> 
+    <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.mp4" media="only screen and (min-device-width: 568px)"></source> 
+    <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.iphone5.mp4" media="only screen and (max-device-width: 568px)"></source> 
+    <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.webmhd.webm"></source> 
+</video>
+> I don’t care what they’re going to say. Let the storm rage on. The cold never bothered me anyway.
+**-Elsa, Frozen** 
 
 * * *
 
