@@ -46,7 +46,8 @@ She is a free spirit, nothing can stop her from doing what she wants.
     <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.iphone5.mp4" media="only screen and (max-device-width: 568px)"></source> 
     <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.webmhd.webm"></source> 
 </video></p>
-> I don’t care what they’re going to say. Let the storm rage on. The cold never bothered me anyway. **Let it go**
+> I don’t care what they’re going to say. Let the storm rage on. The cold never bothered me anyway.
+**Let it go**
 
 * * *
 
