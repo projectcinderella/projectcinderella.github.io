@@ -34,7 +34,7 @@ She makes people around her feel calm and she is composed despite all the牛鬼�
 *One Direction* and in the way forward we will not be *Lost*!!
 >Her style is to make a call and move on with that decision. No U turn and the idea is to chop chop curry pok so that we can all go down to have Drinks!
 
-<img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Decision 1.jpg" alt="Example" width="200" height="200">
+<img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Decisive 1.jpg" alt="Example" width="200" height="200">
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Full of energy.jpg" alt="Example" width="80" height="80"> Full of Energy
 Never once we would feel like we are in the Cold Room. Its always HOT with you around. We are *On Fire* and *This House is On Fire!*
