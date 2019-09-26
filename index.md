@@ -4,6 +4,7 @@ layout: default
 
 Once upon a time in a faraway place, lived a kind and gentle young woman called Cinderella Chia Chey Hui. Chey, as she was called, served as a maid in a large château. Her daily chores includes chasing after the undisciplined ~~CFO’s~~ rats, ensuring the lazy ~~colleagues~~ gnomes stick to their deadlines and rejecting the greedy ~~departments~~ leprechauns application for extra money, often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. And then the fairy godmother appeared, promising to granting her a wish if she could have 1,000 birthday wishes before the clock strikes 12 on her birthday this year...
 
+<img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/chey/Speech.JPG">
 
 ## 7 Traits of Cinderella:
 
