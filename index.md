@@ -4,8 +4,6 @@ layout: default
 
 Once upon a time in a faraway place, lived a kind and gentle young woman called Cinderella Chia Chey Hui. Chey, as she was called, served as a maid in a large château. Her daily chores includes chasing after the undisciplined ~~CFO’s~~ rats, ensuring the lazy ~~colleagues~~ gnomes stick to their deadlines and rejecting the greedy ~~departments~~ leprechauns application for extra money, often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. And then the fairy godmother appeared, promising to granting her a wish if she could have 1,000 birthday wishes before the clock strikes 12 on her birthday this year...
 
-<img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Speech1.JPG" alt="Example" width="150" height="150">
-
 ## 7 Traits of Cinderella:
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Compassion.jpg" alt="Example" width="80" height="80"> Full of Compassion
@@ -36,7 +34,8 @@ She can work wonders and make the impossible possible. No problem is a problem r
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/No airs.jpg" alt="Example" width="80" height="80"> No Airs
 She is unpretentious, not Hao Lian and Blink Blink or Blend Blend. **You are the Air I Breathe!!**
-<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/No airs 1.jpg" alt="Example" width="200" height="200"></p>
+<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/No airs 1.jpg" alt="Example" width="200" height="200"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Speech1.JPG" alt="Example" width="200" height="200">
+</p>
 > Approachable and she always lend a listening ear to us.
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Elsa.jpg" alt="Example" width="80" height="80">     Free Spirited Lady   
@@ -48,7 +47,6 @@ She is a free spirit, nothing can stop her from doing what she wants.
     <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.webmhd.webm"></source> 
 </video></p>
 > I don’t care what they’re going to say. Let the storm rage on. The cold never bothered me anyway.
-**Let it go**
 
 * * *
 
