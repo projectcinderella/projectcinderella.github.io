@@ -60,6 +60,7 @@ It means a lot to us, when you place your trust in our team, to help NTUC embark
 HAPPY BIRTHDAY TO YOU, BOSS!
 MAY ALL YOUR DREAMS COME TRUE! 
 </b></p>
+<img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/tulip.png" alt="Example" width="80" height="80">
 #### NE Finance
 Departmental Birthday Wishes Here
 
