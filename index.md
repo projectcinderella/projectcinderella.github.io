@@ -55,33 +55,33 @@ And so to Cinderella, here are our wishes for you:
 
 #### COE-BPR
 <p><b>
-  <span style='color: blue'>T</span>
-  <span style='color: red'>o </span>
-  <span style='color: yellow'>t</span>
-  <span style='color: blue'>h</span>
-  <span style='color: green'>e </span>
+  <span style='color: red'>T</span>
+  <span style='color: blue'>o </span>
+  <span style='color: green'>t</span>
+  <span style='color: yellow'>h</span>
+  <span style='color: purple'>e </span>
   <span style='color: red'>C</span>
-  <span style='color: blue'>h</span>
+  <span style='color: blue'>H</span>
+  <span style='color: green'>A</span>
+  <span style='color: yellow'>M</span>
+  <span style='color: purple'>P</span>
+  <span style='color: red'>I</span>
+  <span style='color: blue'>O</span>
+  <span style='color: green'>N </span>
+  <span style='color: yellow'>o</span>
+  <span style='color: purple'>f </span>
+  <span style='color: red'>A</span>
+  <span style='color: blue'>L</span>
+  <span style='color: green'>L </span>
+  <span style='color: yellow'>C</span>
+  <span style='color: purple'>h</span>
   <span style='color: red'>a</span>
-  <span style='color: yellow'>m</span>
-  <span style='color: blue'>p</span>
-  <span style='color: green'>i </span>
-  <span style='color: red'>o</span>
-  <span style='color: blue'>n </span>
-  <span style='color: red'>o</span>
-  <span style='color: yellow'>f </span>
-  <span style='color: blue'>A</span>
-  <span style='color: green'>l</span>
-  <span style='color: red'>l </span>
-  <span style='color: blue'>C</span>
-  <span style='color: red'>h</span>
-  <span style='color: yellow'>a</span>
   <span style='color: blue'>m</span>
   <span style='color: green'>p</span>
-  <span style='color: red'>i</span>
-  <span style='color: blue'>o</span>
+  <span style='color: yellow'>i</span>
+  <span style='color: purple'>o</span>
   <span style='color: red'>n</span>
-  <span style='color: yellow'>s</span>
+  <span style='color: blue'>s</span>
 </b>
 
 It means a lot to us, when you place your trust in our team, to help NTUC embark on the CI Movement and to give renewed vitality to our organization through ONE Program. You have the amazing ability to bring out the best in us, to empower us to put our wildest ideas into action.  We are thankful that you are here to provide the lifeline to us, to survive and prosper. Through thick and thin, we hope that you will continue the magical journey with us. We are committed to make you a better Group CFO!
