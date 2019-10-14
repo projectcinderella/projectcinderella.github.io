@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Once upon a time in a faraway place, lived a kind and gentle young woman called Cinderella Chia Chey Hui. Chey, as she was called, served as a maid in a large château ~~NTUC~~. Her daily chores includes chasing after the undisciplined ~~Colleagues~~ rats, ensuring the lazy ~~Project Managers~~ gnomes stick to their deadlines and rejecting the greedy ~~departments~~ leprechauns application for extra money, often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. And then the fairy godmother ~~Guan Yin Ma~~ appeared, promising to grant her a wish if she could have 88 birthday wishes before the clock strikes 12 on her birthday this year...
+Once upon a time in a faraway place~~OMB~~, lived a kind and gentle young woman called Cinderella Chia Chey Hui. Chey, as she was called, served as a maid in a large château ~~NTUC~~. Her daily chores includes chasing after the undisciplined ~~Colleagues~~ rats, ensuring the lazy ~~Project Managers~~ gnomes stick to their deadlines and rejecting the greedy ~~departments~~ leprechauns application for extra money, often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. And then the fairy godmother ~~Guan Yin Ma~~ appeared, promising to grant her a wish if she could have 88 birthday wishes before the clock strikes 12 on her birthday this year...
 
 ## 7 Traits of Cinderella:
 
@@ -54,7 +54,7 @@ And so to Cinderella, here are our wishes for you:
 ## Departmental Wishes
 
 #### COE-BPR
-<p>
+<p><b>
   <span style='color: blue'>T</span>
   <span style='color: red'>o </span>
   <span style='color: yellow'>t</span>
@@ -82,10 +82,8 @@ And so to Cinderella, here are our wishes for you:
   <span style='color: blue'>o</span>
   <span style='color: red'>n</span>
   <span style='color: yellow'>s</span>
-</p>
+</p></b>
 
-
-<p><b>To the CHAMPION of ALL Champions,</b></p>
 It means a lot to us, when you place your trust in our team, to help NTUC embark on the CI Movement and to give renewed vitality to our organization through ONE Program. You have the amazing ability to bring out the best in us, to empower us to put our wildest ideas into action.  We are thankful that you are here to provide the lifeline to us, to survive and prosper. Through thick and thin, we hope that you will continue the magical journey with us. We are committed to make you a better Group CFO!
 <p><b>
 <br>HAPPY BIRTHDAY TO YOU, BOSS!
@@ -94,7 +92,7 @@ It means a lot to us, when you place your trust in our team, to help NTUC embark
 </b></p>
 
 
-#### NE Finance
+#### NE Finance, Admin Legal & Corp Sec
 Departmental Birthday Wishes Here
 
 #### SSC Team
