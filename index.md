@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Once upon a time in a faraway place, lived a kind and gentle young woman called Cinderella Chia Chey Hui. Chey, as she was called, served as a maid in a large château. Her daily chores includes chasing after the undisciplined ~~CFO’s~~ rats, ensuring the lazy ~~colleagues~~ gnomes stick to their deadlines and rejecting the greedy ~~departments~~ leprechauns application for extra money, often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. And then the fairy godmother appeared, promising to granting her a wish if she could have 1,000 birthday wishes before the clock strikes 12 on her birthday this year...
+Once upon a time in a faraway place, lived a kind and gentle young woman called Cinderella Chia Chey Hui. Chey, as she was called, served as a maid in a large château (NTUC). Her daily chores includes chasing after the undisciplined ~~CFO’s~~ rats, ensuring the lazy ~~colleagues~~ gnomes stick to their deadlines and rejecting the greedy ~~departments~~ leprechauns application for extra money, often coming home very, very tired at the end of the day. Although still a young woman, she felt older than her years. And then the fairy godmother appeared, promising to granting her a wish if she could have 1,000 birthday wishes before the clock strikes 12 on her birthday this year...
 
 ## 7 Traits of Cinderella:
 
@@ -27,7 +27,7 @@ Never once we would feel like we are in the Cold Room. Its always HOT with you a
 <p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Full of energy 1.jpg" alt="Example" width="200" height="200"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/energy.jpg" alt="Example" width="200" height="200"></p>
 >Never a moment of 冷. Always fun to be with and a great company for any occasion. Full of passion for any piece of work.
 
-#### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Wonder woman.jpg" alt="Example" width="80" height="80"> Wonder-full Women
+#### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Wonder woman.jpg" alt="Example" width="80" height="80"> Wonder-full Woman
 She can work wonders and make the impossible possible. No problem is a problem rather She is the SOLUTION. **We are the Champions** when we have you!
 <p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/solution.jpg" alt="Example" width="200" height="200">  <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Speech1.JPG" alt="Example" width="200" height="200"></p>
 > Under her leadership, the entire Finance org has achieved so much from where we are 4-5 years ago
