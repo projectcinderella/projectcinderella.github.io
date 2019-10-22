@@ -24,12 +24,12 @@ Her style is to make a call and move on with that decision. No U turn and the id
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Full of energy.jpg" alt="Example" width="80" height="80"> Full of Energy
 Never a moment of 冷. Always fun to be with and a great company for any occasion. Full of passion for any piece of work. Your energy burns through the roof!!!
-<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/fullofenergy.jpg" alt="Example" width="200" height="200"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/energy.jpg" alt="Example" width="200" height="200"></p>
+<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/fullofenergy.jpg" alt="Example" width="200" height="275"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/energy.jpg" alt="Example" width="200" height="200"></p>
 > Never once we would feel like we are in the Cold Room. Its always HOT with you around. 
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Wonder woman.jpg" alt="Example" width="80" height="80"> Wonder-full Woman
 She can work wonders and make the impossible possible. No problem is a problem rather She is the SOLUTION. Under her leadership, the entire Finance org has achieved so much from where we were 4-5 years ago
-<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Speech1.JPG" alt="Example" width="200" height="200"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/decisive123.jpg" alt="Example" width="200" height="200"></p>
+<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Speech1.JPG" alt="Example" width="200" height="200"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/decisive123.jpg" alt="Example" width="275" height="200"></p>
 > **We are the Champions** when we have you!
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/No airs.jpg" alt="Example" width="80" height="80"> No Airs
