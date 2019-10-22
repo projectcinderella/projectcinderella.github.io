@@ -10,7 +10,7 @@ Once upon a time in a faraway place ~~OMB~~, lived a kind and gentle young woman
 Has a great HEART that shows genuine care for people around her. She is generous, not calculative and can empatize with others. 
 <p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/friendtoall.jpeg" alt="Example" width="200" height="200">
 <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Compassion 1.png" alt="Example" width="200" height="200"></p>
-> We **Love You to the Sky**. You keep us going as long as you are around!
+> We **Love You to the Sky**. You keep us going because we know we have you to fall back on whenever things go awry.
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Zen 1.jpg" alt="Example" width="80" height="80"> Cool & Zen
 She makes people around her feel calm and she is composed despite all the 牛鬼蛇神. With her guidance, we take control in whatever space that we operate, no matter in the middle of the highway or moments before a critical meeting. **ZEN!!!**
@@ -20,7 +20,7 @@ She makes people around her feel calm and she is composed despite all the 牛鬼
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Decisive.jpg" alt="Example" width="80" height="80"> Decisive
 Her style is to make a call and move on with that decision. No U turn and the idea is to chop chop curry pok so that we can all go down to have Drinks!
-<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/decisive234.jpg" alt="Example" width="200" height="200"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Decisive 2.JPG" alt="Example" width="200" height="200"> </p>
+<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/decisive234.jpeg" alt="Example" width="200" height="200"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Decisive 2.JPG" alt="Example" width="200" height="200"> </p>
 > You decisivenes in making tough decisions makes working under you a blessing.
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Full of energy.jpg" alt="Example" width="80" height="80"> Full of Energy
@@ -30,12 +30,12 @@ Never a moment of 冷. Always fun to be with and a great company for any occasio
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Wonder woman.jpg" alt="Example" width="80" height="80"> Wonder-full Woman
 She can work wonders and make the impossible possible. No problem is a problem rather She is the SOLUTION. Under her leadership, the entire Finance org has achieved so much from where we were 4-5 years ago
-<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/solution.jpg" alt="Example" width="200" height="200">  <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/decisive234.JPG" alt="Example" width="200" height="200"></p>
+<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/solution.jpg" alt="Example" width="200" height="200">  <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/decisive123.jpeg" alt="Example" width="200" height="200"></p>
 > **We are the Champions** when we have you!
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/No airs.jpg" alt="Example" width="80" height="80"> No Airs
 She is unpretentious, not Hao Lian and Blink Blink or Blend Blend. **You are the Air I Breathe!!**
-<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/singing.jpg" alt="Example" width="300" height="200"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/No airs 3.png" alt="Example" width="200" height="200"></p>
+<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/singing.jpg" alt="Example" width="300" height="200"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/downtoearth.jpg" alt="Example" width="200" height="200"></p>
 > Approachable and she always lend a listening ear to us.
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Elsa.jpg" alt="Example" width="80" height="80">     Free Spirited Lady   
