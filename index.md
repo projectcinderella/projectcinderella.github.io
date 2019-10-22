@@ -23,7 +23,7 @@ Her style is to make a call and move on with that decision. No U turn and the id
 > You decisivenes in making tough decisions makes working under you a blessing.
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Full of energy.jpg" alt="Example" width="80" height="80"> Full of Energy
-Never a moment of 冷. Always fun to be with and a great company for any occasion. Full of passion for any piece of work. You bring fire to the house!!
+Never a moment of 冷. Always fun to be with and a great company for any occasion. Full of passion for any piece of work. Your energy burns through the roof!!!
 <p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/fullofenergy.jpg" alt="Example" width="200" height="200"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/energy.jpg" alt="Example" width="200" height="200"></p>
 > Never once we would feel like we are in the Cold Room. Its always HOT with you around. 
 
