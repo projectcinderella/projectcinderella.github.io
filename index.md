@@ -14,8 +14,8 @@ Has a great HEART that shows genuine care for people around her. She is generous
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Zen 1.jpg" alt="Example" width="80" height="80"> Cool & Zen
 She makes people around her feel calm and she is composed despite all the 牛鬼蛇神. With her guidance, we take control in whatever space that we operate, no matter in the middle of the highway or moments before a critical meeting. **ZEN!!!**
-<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Zen 2.jpg" alt="Example" width="280" height="200">
-<img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/leave no man behind.jpg" alt="Example" width="280" height="200"></p>
+<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Zen 2.jpg" alt="Example" width="250" height="150">
+<img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/leave no man behind.jpg" alt="Example" width="250" height="150"></p>
 > See the similarity?
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Decisive.jpg" alt="Example" width="80" height="80"> Decisive
