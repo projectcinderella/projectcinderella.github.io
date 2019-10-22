@@ -13,10 +13,9 @@ Has a great HEART that shows genuine care for people around her. She is generous
 > We **Love You to the Sky**. You keep us going because we know we have you to fall back on whenever things go awry.
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Zen 1.jpg" alt="Example" width="80" height="80"> Cool & Zen
-She makes people around her feel calm and she is composed despite all the 牛鬼蛇神. With her guidance, we take control in whatever space that we operate, no matter in the middle of the highway or moments before a critical meeting. **ZEN!!!**
-<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Zen 2.jpg" alt="Example" width="250" height="150">
-<img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/leave no man behind.jpg" alt="Example" width="250" height="150"></p>
-> See the similarity?
+She makes people around her feel calm and she is composed despite all the 牛鬼蛇神. With her guidance, we take control in whatever space that we operate, no matter in the middle of the highway or moments before a critical meeting.
+<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Zen 2.jpg" alt="Example" width="350" height="200">
+> Her frequently used encouragement to herself and us, ZEN!!!!
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Decisive.jpg" alt="Example" width="80" height="80"> Decisive
 Her style is to make a call and move on with that decision. No U turn and the idea is to chop chop curry pok so that we can all go down to have Drinks!
@@ -30,12 +29,12 @@ Never a moment of 冷. Always fun to be with and a great company for any occasio
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Wonder woman.jpg" alt="Example" width="80" height="80"> Wonder-full Woman
 She can work wonders and make the impossible possible. No problem is a problem rather She is the SOLUTION. Under her leadership, the entire Finance org has achieved so much from where we were 4-5 years ago
-<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/solution.jpg" alt="Example" width="200" height="200">  <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/decisive123.jpeg" alt="Example" width="200" height="200"></p>
+<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/solution.jpg" alt="Example" width="200" height="200">  <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/decisive123.jpg" alt="Example" width="200" height="200"></p>
 > **We are the Champions** when we have you!
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/No airs.jpg" alt="Example" width="80" height="80"> No Airs
 She is unpretentious, not Hao Lian and Blink Blink or Blend Blend. **You are the Air I Breathe!!**
-<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/singing.jpg" alt="Example" width="300" height="200"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/downtoearth.jpg" alt="Example" width="200" height="200"></p>
+<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/singing.jpg" alt="Example" width="300" height="200"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/0112.jpg" alt="Example" width="200" height="200"></p>
 > Approachable and she always lend a listening ear to us.
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Elsa.jpg" alt="Example" width="80" height="80">     Free Spirited Lady   
