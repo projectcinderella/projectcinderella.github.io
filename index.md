@@ -29,7 +29,7 @@ Never a moment of 冷. Always fun to be with and a great company for any occasio
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Wonder woman.jpg" alt="Example" width="80" height="80"> Wonder-full Woman
 She can work wonders and make the impossible possible. No problem is a problem rather She is the SOLUTION. Under her leadership, the entire Finance org has achieved so much from where we were 4-5 years ago
-<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/decisive123.jpg" alt="Example" width="200" height="200"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Speech1.JPG" alt="Example" width="200" height="200"></p>
+<p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Speech1.JPG" alt="Example" width="200" height="200"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/decisive123.jpg" alt="Example" width="200" height="200"></p>
 > **We are the Champions** when we have you!
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/No airs.jpg" alt="Example" width="80" height="80"> No Airs
@@ -57,22 +57,27 @@ And so to Cinderella, here are our wishes for you:
 <p><b>
   <span style='color: red'>T</span>
   <span style='color: blue'>o </span>
-  <span style='color: green'>t</span>
+	
+  <span style='color: green'>T</span>
   <span style='color: yellow'>h</span>
   <span style='color: purple'>e </span>
+  
   <span style='color: red'>C</span>
-  <span style='color: blue'>H</span>
-  <span style='color: green'>A</span>
-  <span style='color: yellow'>M</span>
-  <span style='color: purple'>P</span>
-  <span style='color: red'>I</span>
-  <span style='color: blue'>O</span>
-  <span style='color: green'>N </span>
-  <span style='color: yellow'>o</span>
+  <span style='color: blue'>h</span>
+  <span style='color: green'>a</span>
+  <span style='color: yellow'>m</span>
+  <span style='color: purple'>p</span>
+  <span style='color: red'>i</span>
+  <span style='color: blue'>o</span>
+  <span style='color: green'>n </span>
+  
+  <span style='color: yellow'>O</span>
   <span style='color: purple'>f </span>
+  
   <span style='color: red'>A</span>
-  <span style='color: blue'>L</span>
-  <span style='color: green'>L </span>
+  <span style='color: blue'>l</span>
+  <span style='color: green'>l </span>
+  
   <span style='color: yellow'>C</span>
   <span style='color: purple'>h</span>
   <span style='color: red'>a</span>
