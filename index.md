@@ -7,39 +7,39 @@ Once upon a time in a faraway place ~~OMB~~, lived a kind and gentle young woman
 ## 7 Songs for Cinderella:
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Compassion.jpg" alt="Example" width="80" height="80"> Full of Compassion
-Has a great HEART that shows genuine care for people around her. She is generous, not calculative and can empatize with others. 
+Has a great **HEART** that shows genuine care for people around her. She is generous, not calculative and can empatize with others. 
 <p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/friendtoall.jpeg" alt="Example" width="200" height="200">
 <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Compassion 1.png" alt="Example" width="200" height="200"></p>
 > <a href="https://www.youtube.com/watch?v=eiDiKwbGfIY">Perfect</a> ~ Well I found a woman, stronger than anyone I know ~
 She shares my dreams, I hope that someday I'll share her home (Her big house in Singapore =P) ~ 
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Zen 1.jpg" alt="Example" width="80" height="80"> Cool head - Warm heart
-She makes people around her feel calm and she is composed despite all the 牛鬼蛇神. With her guidance, we take control in whatever space that we operate, no matter in the middle of the highway or in a meeting with the most difficult person on earth. Her frequently used encouragement to herself and us, ZEN!!!!
+She makes people around her feel calm and she is composed despite all the **牛鬼蛇神**. With her guidance, we **take control** in whatever space that we operate, no matter in the middle of the highway or in a meeting with the most difficult person on earth. Her frequently used encouragement to herself and us, ZEN!!!!
 <p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Zen 2.jpg" alt="Example" width="350" height="200"></p>
 > <b><a href="https://www.youtube.com/watch?v=Dkk9gvTmCXY">You need to Calm Down</a></b> ~ You need to calm down, you're being too loud ~ So oh-oh, oh-oh, oh-oh, oh-oh, oh-oh ~ 
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Full of energy.jpg" alt="Example" width="80" height="80"> Full of Energy
-Never a moment of 冷. Always fun to be with and a great company for any occasion. Full of passion for any piece of work. Your energy burns through the roof!!! Its always HOT with you around. 
+Never a moment of 冷. Always fun to be with and a great company for any occasion. **Full of passion** for any piece of work. Your energy burns through the roof!!! Its always HOT with you around. 
 <p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/fullofenergy.jpg" alt="Example" width="275" height="200"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/energy.jpg" alt="Example" width="200" height="200"></p>
 > <a href="https://www.youtube.com/watch?v=3b1YSNsF2eE">Girl on Fire</a> ~ This Girl is on fire ~ This Girl is on fire ~
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Decisive.jpg" alt="Example" width="80" height="80"> Decisive
-Her style is to make a call and move on with that decision. No U-turn and the idea is to chop chop curry pok so that we can all go down to have drinks! Your decisiveness in making tough decisions makes working under you a blessing.
+Her style is to **make a call and move on** with that decision. No U-turn and the idea is to chop chop curry pok so that we can all go down to have drinks! Your decisiveness in making tough decisions makes working under you a blessing.
 <p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/decisive234.jpeg" alt="Example" width="200" height="200"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Decisive 2.JPG" alt="Example" width="200" height="200"> </p>
 > <a href="https://www.youtube.com/watch?v=1__G9XEZhwM">My Way</a> ~ But through it all, when there was doubt ~ I ate it up and spit it out ~ I faced it all and I stood tall ~ And did it my way
 
-#### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Wonder woman.jpg" alt="Example" width="80" height="80"> Wonder-full Woman
-She can work wonders and make the impossible possible. No problem is a problem rather She is the SOLUTION. Under her leadership, the entire Finance org has achieved so much from where we were 4-5 years ago
+#### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Wonder woman.jpg" alt="Example" width="80" height="80"> Wonder Woman
+She can work wonders and make the impossible possible. No problem is a problem rather **She is the SOLUTION**. Under her leadership, the entire Finance org has achieved so much from where we were 4-5 years ago
 <p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Speech1.JPG" alt="Example" width="200" height="200"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/decisive123.jpg" alt="Example" width="275" height="200"></p>
 > <a href="https://www.youtube.com/watch?v=XWJloWmAqnE">We are the Champions</a> - We are the champions, my friend ~ And we'll keep on fighting 'til the end
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/No airs.jpg" alt="Example" width="80" height="80"> No Airs
-She is unpretentious, not Hao Lian and Blink Blink or Blend Blend. Always approachable and willing to lend a listening ear to the people around her. A very down to earth person that makes you feel comfortable to be with.
+She is unpretentious, not Hao Lian and Blink Blink or Blend Blend. **Always approachable** and willing to lend a listening ear to the people around her. A very down to earth person that makes you feel comfortable to be with.
 <p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/singing.jpg" alt="Example" width="260" height="200"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/0112.jpg" alt="Example" width="220" height="200"></p>
 > <a href="https://www.youtube.com/watch?v=mfQel3jxK-g">凡人歌</a> ~ 你我皆凡人 ~ 生在人世间 ~
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Elsa.jpg" alt="Example" width="80" height="80"> Free Spirited Lady   
-She is a free spirit, nothing can stop her from doing what she wants. She don’t care what they’re going to say. Let the storm rage on. The cold never bothered her anyway.
+She is a free spirit, nothing can stop her from doing what she wants. She don’t care what they’re going to say. Let the storm rage on. **The cold never bothered her anyway**.
 <p><video poster="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Opening.jpg" width="618" height="347" controls preload> 
     <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.mp4" media="only screen and (min-device-width: 568px)"></source> 
     <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.iphone5.mp4" media="only screen and (max-device-width: 568px)"></source> 
