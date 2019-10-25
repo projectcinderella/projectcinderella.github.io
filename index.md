@@ -90,10 +90,9 @@ And so to Cinderella, here are our wishes for you:
   <span style='color: blue'>s</span>
 </b></p>
 It means a lot to us, when you place your trust in our team, to help NTUC embark on the CI Movement and to give renewed vitality to our organization through ONE Program. You have the amazing ability to bring out the best in us, to empower us to put our wildest ideas into action.  We are thankful that you are here to provide the lifeline to us, to survive and prosper. Through thick and thin, we hope that you will continue the magical journey with us. We are committed to make you a better Group CFO!
-<p><b>
-<br>HAPPY BIRTHDAY TO YOU, BOSS! MAY ALL YOUR DREAMS COME TRUE! 
+<p><b>HAPPY BIRTHDAY TO YOU, BOSS! MAY ALL YOUR DREAMS COME TRUE! </b>
 <br><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/tulip.png" alt="Example" width="50" height="70">
-</b></p>
+</p>
 
 #### NE Finance, Admin Legal & Corp Sec
 Departmental Birthday Wishes Here
