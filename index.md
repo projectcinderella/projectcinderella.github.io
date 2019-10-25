@@ -57,11 +57,11 @@ And so to Cinderella, here are our wishes for you:
 #### COE-BPR
 <p><b>
   <span style='color: red'>T</span>
-  <span style='color: blue'>o </span>
+  <span style='color: blue'>o</span>" "
 	
   <span style='color: green'>T</span>
   <span style='color: yellow'>h</span>
-  <span style='color: purple'>e </span>
+  <span style='color: purple'>e </span>" "
   
   <span style='color: red'>C</span>
   <span style='color: blue'>h</span>
