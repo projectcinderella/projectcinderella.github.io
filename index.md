@@ -24,7 +24,7 @@ Never a moment of 冷. Always fun to be with and a great company for any occasio
 > <a href="https://www.youtube.com/watch?v=3b1YSNsF2eE">Girl on Fire</a> ~ This Girl is on fire ~ This Girl is on fire ~
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Decisive.jpg" alt="Example" width="80" height="80"> Decisive
-Her style is to make a call and move on with that decision. No U turn and the idea is to chop chop curry pok so that we can all go down to have drinks! You decisivenes in making tough decisions makes working under you a blessing.
+Her style is to make a call and move on with that decision. No U-turn and the idea is to chop chop curry pok so that we can all go down to have drinks! Your decisiveness in making tough decisions makes working under you a blessing.
 <p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/decisive234.jpeg" alt="Example" width="200" height="200"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Decisive 2.JPG" alt="Example" width="200" height="200"> </p>
 > <a href="https://www.youtube.com/watch?v=1__G9XEZhwM">My Way</a> ~ But through it all, when there was doubt ~ I ate it up and spit it out ~ I faced it all and I stood tall ~ And did it my way
 
