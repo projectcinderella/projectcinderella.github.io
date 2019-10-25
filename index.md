@@ -54,7 +54,7 @@ And so to Cinderella, here are our wishes for you:
 ## Departmental Wishes
 
 #### COE-BPR
-<p><b>
+#### <p><b>
   <span style='color: red'>T</span>
   <span style='color: blue'>o </span>
 	
