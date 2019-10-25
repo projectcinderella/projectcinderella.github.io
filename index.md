@@ -10,7 +10,7 @@ Once upon a time in a faraway place ~~OMB~~, lived a kind and gentle young woman
 Has a great HEART that shows genuine care for people around her. She is generous, not calculative and can empatize with others. 
 <p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/friendtoall.jpeg" alt="Example" width="200" height="200">
 <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Compassion 1.png" alt="Example" width="200" height="200"></p>
-> We <a href="https://www.youtube.com/watch?v=Dkk9gvTmCXY">Love you to the Sky</a> ~I love you to the sky, sky, sky, sky!
+> We <a href="https://www.youtube.com/watch?v=-qf8LoHugjk">Love you to the Sky</a> ~I love you to the sky, sky, sky, sky!
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Zen 1.jpg" alt="Example" width="80" height="80"> Cool head - Warm heart
 She makes people around her feel calm and she is composed despite all the 牛鬼蛇神. With her guidance, we take control in whatever space that we operate, no matter in the middle of the highway or in a meeting with the most difficult person on earth. Her frequently used encouragement to herself and us, ZEN!!!!
@@ -54,7 +54,7 @@ And so to Cinderella, here are our wishes for you:
 ## Departmental Wishes
 
 #### COE-BPR
-#### <p><b>
+<p><b>
   <span style='color: red'>T</span>
   <span style='color: blue'>o </span>
 	
