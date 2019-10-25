@@ -33,9 +33,9 @@ She can work wonders and make the impossible possible. No problem is a problem r
 > **We are the Champions** when we have you!
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/No airs.jpg" alt="Example" width="80" height="80"> No Airs
-She is unpretentious, not Hao Lian and Blink Blink or Blend Blend. **You are the Air I Breathe!!**
+She is unpretentious, not Hao Lian and Blink Blink or Blend Blend. A very down to earth person that makes you feel comfortable to interact with.
 <p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/singing.jpg" alt="Example" width="260" height="200"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/0112.jpg" alt="Example" width="220" height="200"></p>
-> Approachable and she always lend a listening ear to us.
+> Always approachable and willing to lend a listening ear to the people around her.
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Elsa.jpg" alt="Example" width="80" height="80">     Free Spirited Lady   
 
