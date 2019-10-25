@@ -10,7 +10,7 @@ Once upon a time in a faraway place ~~OMB~~, lived a kind and gentle young woman
 Has a great HEART that shows genuine care for people around her. She is generous, not calculative and can empatize with others. 
 <p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/friendtoall.jpeg" alt="Example" width="200" height="200">
 <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Compassion 1.png" alt="Example" width="200" height="200"></p>
-> We <a href="https://www.youtube.com/watch?v=eiDiKwbGfIY">Perfect</a> ~ Well I found a woman, stronger than anyone I know ~
+> <a href="https://www.youtube.com/watch?v=eiDiKwbGfIY">Perfect</a> ~ Well I found a woman, stronger than anyone I know ~
 She shares my dreams, I hope that someday I'll share her home (Her big house in Singapore =P) ~ 
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Zen 1.jpg" alt="Example" width="80" height="80"> Cool head - Warm heart
