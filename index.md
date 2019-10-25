@@ -10,7 +10,7 @@ Once upon a time in a faraway place ~~OMB~~, lived a kind and gentle young woman
 Has a great HEART that shows genuine care for people around her. She is generous, not calculative and can empatize with others. 
 <p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/friendtoall.jpeg" alt="Example" width="200" height="200">
 <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Compassion 1.png" alt="Example" width="200" height="200"></p>
-> We **Love You to the Sky** ~I love you to the sky, sky, sky, sky!
+> We <a href="https://www.youtube.com/watch?v=Dkk9gvTmCXY">Love you to the sky</a> ~I love you to the sky, sky, sky, sky!
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Zen 1.jpg" alt="Example" width="80" height="80"> Cool head - Warm heart
 She makes people around her feel calm and she is composed despite all the 牛鬼蛇神. With her guidance, we take control in whatever space that we operate, no matter in the middle of the highway or in a meeting with the most difficult person on earth. Her frequently used encouragement to herself and us, ZEN!!!!
@@ -30,7 +30,7 @@ Her style is to make a call and move on with that decision. No U turn and the id
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Wonder woman.jpg" alt="Example" width="80" height="80"> Wonder-full Woman
 She can work wonders and make the impossible possible. No problem is a problem rather She is the SOLUTION. Under her leadership, the entire Finance org has achieved so much from where we were 4-5 years ago
 <p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Speech1.JPG" alt="Example" width="200" height="200"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/decisive123.jpg" alt="Example" width="275" height="200"></p>
-> **We are the Champions** - We are the champions, my friend ~ And we'll keep on fighting 'til the end
+> <a href="https://www.youtube.com/watch?v=XWJloWmAqnE">We are the Champions</a> - We are the champions, my friend ~ And we'll keep on fighting 'til the end
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/No airs.jpg" alt="Example" width="80" height="80"> No Airs
 She is unpretentious, not Hao Lian and Blink Blink or Blend Blend. Always approachable and willing to lend a listening ear to the people around her. A very down to earth person that makes you feel comfortable to be with.
@@ -38,13 +38,14 @@ She is unpretentious, not Hao Lian and Blink Blink or Blend Blend. Always approa
 >  You keep us going because we know we have you to fall back on whenever things go awry.
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Elsa.jpg" alt="Example" width="80" height="80"> Free Spirited Lady   
-She is a free spirit, nothing can stop her from doing what she wants. Just like one of her favourite song ~ **Its My Life**
+She is a free spirit, nothing can stop her from doing what she wants. She don’t care what they’re going to say. Let the storm rage on. The cold never bothered her anyway.
 <p><video poster="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Opening.jpg" width="618" height="347" controls preload> 
     <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.mp4" media="only screen and (min-device-width: 568px)"></source> 
     <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.iphone5.mp4" media="only screen and (max-device-width: 568px)"></source> 
     <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.webmhd.webm"></source> 
 </video></p>
-> **Let it go** ~ I don’t care what they’re going to say. ~ Let the storm rage on.The cold never bothered me anyway.
+> <a href="https://www.youtube.com/watch?v=J00uLwMRmBQ">Its My Life</a> ~ It's my life ~ And it's now or never ~ I ain't gonna live forever ~ I just want to live while I'm alive
+
 
 * * *
 
