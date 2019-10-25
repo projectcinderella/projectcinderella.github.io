@@ -10,7 +10,7 @@ Once upon a time in a faraway place ~~OMB~~, lived a kind and gentle young woman
 Has a great HEART that shows genuine care for people around her. She is generous, not calculative and can empatize with others. 
 <p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/friendtoall.jpeg" alt="Example" width="200" height="200">
 <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Compassion 1.png" alt="Example" width="200" height="200"></p>
-> We <a href="https://www.youtube.com/watch?v=Dkk9gvTmCXY">Love you to the sky</a> ~I love you to the sky, sky, sky, sky!
+> We <a href="https://www.youtube.com/watch?v=Dkk9gvTmCXY">Love you to the Sky</a> ~I love you to the sky, sky, sky, sky!
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Zen 1.jpg" alt="Example" width="80" height="80"> Cool head - Warm heart
 She makes people around her feel calm and she is composed despite all the 牛鬼蛇神. With her guidance, we take control in whatever space that we operate, no matter in the middle of the highway or in a meeting with the most difficult person on earth. Her frequently used encouragement to herself and us, ZEN!!!!
@@ -23,9 +23,9 @@ Never a moment of 冷. Always fun to be with and a great company for any occasio
 > <a href="https://www.youtube.com/watch?v=3b1YSNsF2eE">Girl on Fire</a> ~ This Girl is on fire ~ This Girl is on fire ~
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Decisive.jpg" alt="Example" width="80" height="80"> Decisive
-Her style is to make a call and move on with that decision. No U turn and the idea is to chop chop curry pok so that we can all go down to have Drinks!
+Her style is to make a call and move on with that decision. No U turn and the idea is to chop chop curry pok so that we can all go down to have drinks! You decisivenes in making tough decisions makes working under you a blessing.
 <p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/decisive234.jpeg" alt="Example" width="200" height="200"> <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Decisive 2.JPG" alt="Example" width="200" height="200"> </p>
-> You decisivenes in making tough decisions makes working under you a blessing.
+> <a href="https://www.youtube.com/watch?v=1__G9XEZhwM">My Way</a> ~ But through it all, when there was doubt ~ I ate it up and spit it out ~ I faced it all and I stood tall ~ And did it my way
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Wonder woman.jpg" alt="Example" width="80" height="80"> Wonder-full Woman
 She can work wonders and make the impossible possible. No problem is a problem rather She is the SOLUTION. Under her leadership, the entire Finance org has achieved so much from where we were 4-5 years ago
@@ -44,7 +44,7 @@ She is a free spirit, nothing can stop her from doing what she wants. She don’
     <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.iphone5.mp4" media="only screen and (max-device-width: 568px)"></source> 
     <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.webmhd.webm"></source> 
 </video></p>
-> <a href="https://www.youtube.com/watch?v=J00uLwMRmBQ">Its My Life</a> ~ It's my life ~ And it's now or never ~ I ain't gonna live forever ~ I just want to live while I'm alive
+> <a href="https://www.youtube.com/watch?v=J00uLwMRmBQ">Its My Life</a> ~ It's My Life ~ And it's now or never ~ I ain't gonna live forever ~ I just want to live while I'm alive
 
 
 * * *
