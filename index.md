@@ -7,14 +7,13 @@ Once upon a time in a faraway place ~~OMB~~, lived a kind and gentle young woman
 ## 7 Songs for Cinderella:
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Compassion.jpg" alt="Example" width="80" height="80"> Full of Compassion
-Has a great **HEART** that shows genuine care for people around her. She is generous, not calculative and can empatize with others. 
+Has a great **HEART** that shows genuine care for people around her. She is generous, not calculative and can empathize with others. 
 <p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/friendtoall.jpeg" alt="Example" width="200" height="200">
 <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Compassion 1.png" alt="Example" width="200" height="200"></p>
-> <a href="https://www.youtube.com/watch?v=eiDiKwbGfIY">Perfect</a> ~ Well I found a woman, stronger than anyone I know ~
-She shares my dreams, I hope that someday I'll share her home (Big Big Home) ~ 
+> <a href="https://www.youtube.com/watch?v=eiDiKwbGfIY">Perfect</a> ~ Well I found a woman, stronger than anyone I know ~ 
 
 #### <img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Zen 1.jpg" alt="Example" width="80" height="80"> Cool head - Warm heart
-She makes people around her feel calm and she is composed despite all the **牛鬼蛇神**. With her guidance, we **take control** in whatever space that we operate, no matter in the middle of the highway or in a meeting with the most difficult person on earth. Her frequently used encouragement to herself and us, **ZEN!!!**
+She makes people around her feel calm and she is composed despite all the **牛鬼蛇神**. With her guidance, we **take control** in whatever space that we operate in, no matter in the middle of the highway or in a meeting with the most difficult person on earth. Her frequently used encouragement to herself and us, **ZEN!!!**
 <p><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/Zen 2.jpg" alt="Example" width="350" height="200"></p>
 > <b><a href="https://www.youtube.com/watch?v=Dkk9gvTmCXY">You need to Calm Down</a></b> ~ You need to calm down, you're being too loud ~ So oh-oh, oh-oh, oh-oh, oh-oh, oh-oh ~ 
 
