@@ -94,7 +94,13 @@ It means a lot to us, when you place your trust in our team, to help NTUC embark
 </p>
 
 #### NE Finance, Admin Legal & Corp Sec
-Departmental Birthday Wishes Here
+<b>Happy Birthday Your Highness!</b>
+
+Am sure you have no regrets joining the Labour Movement and having great team members like us :p
+Great that we can be part of this celebration aka "your life"!
+Hope that your birthday is full of fun and doing things that you like.  
+
+<b>HFrom your trusted Finance team</b>
 
 #### SSC Team
 Departmental Birthday Wishes Here
