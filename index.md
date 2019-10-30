@@ -89,18 +89,18 @@ And so to Cinderella, here are our wishes for you:
   <span style='color: blue'>s</span>
 </b></p>
 It means a lot to us, when you place your trust in our team, to help NTUC embark on the CI Movement and to give renewed vitality to our organization through ONE Program. You have the amazing ability to bring out the best in us, to empower us to put our wildest ideas into action.  We are thankful that you are here to provide the lifeline to us, to survive and prosper. Through thick and thin, we hope that you will continue the magical journey with us. We are committed to make you a better Group CFO!
-<p><b>HAPPY BIRTHDAY TO YOU, BOSS! MAY ALL YOUR DREAMS COME TRUE! </b>
+<p><strong>HAPPY BIRTHDAY TO YOU, BOSS! MAY ALL YOUR DREAMS COME TRUE! </strong>
 <br><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/tulip.png" alt="Example" width="50" height="70">
 </p>
 
 #### NE Finance, Admin Legal & Corp Sec
-<b>Happy Birthday Your Highness!</b>
+<strong>Happy Birthday Your Highness!</strong>
 
 Am sure you have no regrets joining the Labour Movement and having great team members like us :p
 Great that we can be part of this celebration aka "your life"!
 Hope that your birthday is full of fun and doing things that you like.  
 
-<b>HFrom your trusted Finance team</b>
+<strong>HFrom your trusted Finance team</strong>
 
 #### SSC Team
 Departmental Birthday Wishes Here
