@@ -100,7 +100,7 @@ Am sure you have no regrets joining the Labour Movement and having great team me
 Great that we can be part of this celebration aka "your life"!
 Hope that your birthday is full of fun and doing things that you like.  
 
-<strong>HFrom your trusted Finance team</strong>
+<strong>From your trusted Finance team</strong>
 
 #### SSC Team
 Departmental Birthday Wishes Here
