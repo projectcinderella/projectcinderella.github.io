@@ -54,7 +54,7 @@ And so to Cinderella, here are our wishes for you:
 ## Departmental Wishes
 
 #### COE-BPR
-<p><b>
+<p><strong>
   <span style='color: red'>T</span>
   <span style='color: blue'>o</span>_
 	
@@ -87,7 +87,7 @@ And so to Cinderella, here are our wishes for you:
   <span style='color: purple'>o</span>
   <span style='color: red'>n</span>
   <span style='color: blue'>s</span>
-</b></p>
+</strong></p>
 It means a lot to us, when you place your trust in our team, to help NTUC embark on the CI Movement and to give renewed vitality to our organization through ONE Program. You have the amazing ability to bring out the best in us, to empower us to put our wildest ideas into action.  We are thankful that you are here to provide the lifeline to us, to survive and prosper. Through thick and thin, we hope that you will continue the magical journey with us. We are committed to make you a better Group CFO!
 <p><strong>HAPPY BIRTHDAY TO YOU, BOSS! MAY ALL YOUR DREAMS COME TRUE! </strong>
 <br><img src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/images/tulip.png" alt="Example" width="50" height="70">
