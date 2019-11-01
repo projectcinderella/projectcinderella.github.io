@@ -97,8 +97,8 @@ It means a lot to us, when you place your trust in our team, to help NTUC embark
 <strong>Happy Birthday Your Highness!</strong>
 
 Am sure you have no regrets joining the Labour Movement and having great team members like us :p
-Great that we can be part of this celebration aka "your life"!
-Hope that your birthday is full of fun and doing things that you like.  
+<br>Great that we can be part of this celebration aka "your life"!
+<br>Hope that your birthday is full of fun and doing things that you like.  
 
 <strong>From your trusted Finance team</strong>
 
