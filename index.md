@@ -81,7 +81,7 @@ Happy Birthday to a special boss who is always so energetic and fun loving.
 <br>Our warmest wishes for personal happiness and professional success. 
 <br><strong>Happy  Birthday! Cheers…..</strong>
 
-<p><video poster="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Opening.jpg" width="618" height="347" controls preload> 
+<p><video poster="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/pokemon.JPG" width="618" height="347" controls preload> 
     <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/cheybirthday.mp4" media="only screen and (min-device-width: 568px)"></source> 
     <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/cheybirthday.iphone5.mp4" media="only screen and (max-device-width: 568px)"></source> 
     <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/cheybirthday.webmhd.webm"></source> 
