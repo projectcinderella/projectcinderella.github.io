@@ -103,12 +103,16 @@ Am sure you have no regrets joining the Labour Movement and having great team me
 <strong>From your trusted Finance team</strong>
 
 #### SSC Team
-Departmental Birthday Wishes **Here**
+<span style='color: purple'>
+Happy Birthday to a special boss who is always so energetic and fun loving.
+<br>Our warmest wishes for personal happiness and professional success. 
+<br>Happy  Birthday! Cheers…..
+</span>
 
 <p><video poster="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Opening.jpg" width="618" height="347" controls preload> 
-    <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.mp4" media="only screen and (min-device-width: 568px)"></source> 
-    <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.iphone5.mp4" media="only screen and (max-device-width: 568px)"></source> 
-    <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/Dance.webmhd.webm"></source> 
+    <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/cheybirthday.mp4" media="only screen and (min-device-width: 568px)"></source> 
+    <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/cheybirthday.iphone5.mp4" media="only screen and (max-device-width: 568px)"></source> 
+    <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/cheybirthday.webmhd.webm"></source> 
 </video></p>
 
 
