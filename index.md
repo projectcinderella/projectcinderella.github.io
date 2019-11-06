@@ -87,6 +87,14 @@ Happy Birthday to a special boss who is always so energetic and fun loving.
     <source src="https://raw.githubusercontent.com/projectcinderella/projectcinderella.github.io/master/assets/chey/cheybirthday.webmhd.webm"></source> 
 </video></p>
 
+#### SAP Finance Team
+
+We learnt the term 's/he is bigger than life' without knowing the meaning.  That goes on, until we met you.
+<br>How can someone make her team overjoyed, give up lunches, burn night and day, risk their life to do your request?  How can someone get not-her team to feel at ease talking about SAP, systems, apps, even feel easier than talking to our own IT folks?  And when you say 'there is a feedback ah ...,', you make it sound as if it's a compliment.  This phenomenon is worth a one-term subject at NUS Social Science (wait, I'm calling a professor friend there).
+<br>Back to this note, today is your birthday and it's our primary objective going to office (also a reason to decline meetings because we wouldn't miss it for the world).  
+
+<br><strong>Therefore, here is for your day of the year. You're phenomenal!</strong>
+
 
 * * *
 
